@@ -1,16 +1,17 @@
-### Hi there 👋
+<img src="https://c.tenor.com/eT65efTNamoAAAAj/bonfire-darksouls.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Bonfire">
 
-<!--
-**Lusqinha/Lusqinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Sou estudante de eletrônica no IFsul pelotas, comecei a me interessar por programação quando eu precisei de um programa e não encontrei nenhum do jeito que eu queria. desde então eu faço tudo que eu preciso, ainda estou longe de atingir meus objetivos mas é só uma questão de tempo.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  👾 Linguagens: <strong>Python</strong> e <strong>GDScript</strong>, ambas ainda estou aprendendo.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💼 Cursos: Atualmente estou fazendo o curso do <strong>Luiz Otávio Miranda</strong> na Udemy.
+</p>
+
+<p align="left">
+  💌 Se por algum motivo quiser falar comigo: ⤵️
+</p>
