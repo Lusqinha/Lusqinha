@@ -1,7 +1,7 @@
 <img src="https://c.tenor.com/eT65efTNamoAAAAj/bonfire-darksouls.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Bonfire">
 
 <p align="left"> 
-  Sou estudante de eletrônica no IFsul pelotas, comecei a me interessar por programação quando eu precisei de um programa e não encontrei nenhum do jeito que eu queria. desde então eu faço tudo que eu preciso, ainda estou longe de atingir meus objetivos mas é só uma questão de tempo.
+  Sou estudante de eletrônica no IFsul pelotas, comecei a me interessar por programação quando eu precisei de um programa e não encontrei nenhum do jeito que eu queria. desde então eu faço tudo que eu preciso; Ainda estou longe de atingir meus objetivos mas é só uma questão de tempo.
 </p>
 
 <p align="left">
