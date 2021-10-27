@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  👾 Linguagens: <strong>Python</strong> e <strong>GDScript</strong>, ambas ainda estou aprendendo.
+  👾 Linguagens: <strong>Python</strong>, <strong>GDScript</strong> e <strong>C#</strong>, todas elas eu ainda estou aprendendo.
 </p>
 
 <p align="left">
