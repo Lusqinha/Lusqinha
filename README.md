@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  👾 Linguagens: <strong>Python</strong>, <strong>GDScript</strong> e <strong>C#</strong>, todas elas eu ainda estou aprendendo.
+  👾 Linguagens: <strong>Python</strong>, <strong>JavaScript</strong> e <strong>React</strong>, todas elas eu ainda estou aprendendo.
 </p>
 
 <p align="left">
-  💼 Cursos: Atualmente estou fazendo o curso do <strong>Luiz Otávio Miranda</strong> na Udemy.
+  💼 Cursos: Atualmente estou matriculado na <strong>Alura</strong> focado principalmente em Front-End.
 </p>
 
 <p align="left">
