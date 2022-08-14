@@ -1,15 +1,15 @@
 <img src="https://c.tenor.com/eT65efTNamoAAAAj/bonfire-darksouls.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Bonfire">
 
 <p align="left"> 
-  Sou estudante de eletrônica no IFsul pelotas, comecei a me interessar por programação quando eu precisei de um programa e não encontrei nenhum do jeito que eu queria. desde então eu faço tudo que eu preciso; Ainda estou longe de atingir meus objetivos mas é só uma questão de tempo.
+  Estudei eletrônica no IFsul Pelotas, porém com a pandemia e a falta de aulas decidi retornar para um cólegio de ensino médio simples de minha cidade, sobrando assim, mais tempo para me dedicar no estudo e aperfeiçoamento nos estudos de programação.
 </p>
 
 <p align="left">
-  👾 Linguagens: <strong>Python</strong>, <strong>JavaScript</strong> e <strong>React</strong>, todas elas eu ainda estou aprendendo.
+  👾 Linguagens: <strong>Python</strong>, <strong>JavaScript</strong> e <strong>Node.Js</strong> são atualmente as linguagens que eu mais trabalho.
 </p>
 
 <p align="left">
-  💼 Cursos: Atualmente estou matriculado na <strong>Alura</strong> focado principalmente em Front-End.
+  💼 Cursos: Atualmente estou matriculado na <strong>Alura</strong> focado principalmente em Front-End e Python.
 </p>
 
 <p align="left">
@@ -17,6 +17,7 @@
 </p>
 <p>
 <a href="https://instagram.com/lusqina" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lucas18sborges@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-borges-da-silva-64b576215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contato@lucasborges.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "lucasborges.tech" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-site-purple?style=for-the-badge" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-borges-da-silva-sls/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
