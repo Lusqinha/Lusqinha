@@ -1,4 +1,4 @@
-<img src="https://c.tenor.com/eT65efTNamoAAAAj/bonfire-darksouls.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Bonfire">
+<img src="https://4.bp.blogspot.com/-0_jDemfgeoU/Vwcg_HAQXkI/AAAAAAAADVk/TWbxzYo63LIGmISDHkCcfSINXfj9lIBaA/s640/Hyper_light_Drifter-gif1.gif" min-width="250px" max-width="250px" width="250px" align="right" alt="Bonfire">
 
 <p align="left"> 
   Estudei eletrônica no IFsul Pelotas, porém com a pandemia e a falta de aulas decidi retornar para um cólegio de ensino médio simples de minha cidade, sobrando assim, mais tempo para me dedicar no estudo e aperfeiçoamento nos estudos de programação.
