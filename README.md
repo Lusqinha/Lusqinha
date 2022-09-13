@@ -1,23 +1,25 @@
-<img src="https://4.bp.blogspot.com/-0_jDemfgeoU/Vwcg_HAQXkI/AAAAAAAADVk/TWbxzYo63LIGmISDHkCcfSINXfj9lIBaA/s640/Hyper_light_Drifter-gif1.gif" min-width="250px" max-width="250px" width="250px" align="right" alt="Bonfire">
-
-<p align="left"> 
-  Estudei eletrônica no IFsul Pelotas, porém com a pandemia e a falta de aulas decidi retornar para um cólegio de ensino médio simples de minha cidade, sobrando assim, mais tempo para me dedicar no estudo e aperfeiçoamento nos estudos de programação.
-</p>
-
-<p align="left">
-  👾 Linguagens: <strong>Python</strong>, <strong>JavaScript</strong> e <strong>Node.Js</strong> são atualmente as linguagens que eu mais trabalho.
-</p>
-
-<p align="left">
-  💼 Cursos: Atualmente estou matriculado na <strong>Alura</strong> focado principalmente em Front-End e Python.
-</p>
-
-<p align="left">
-  💌 Se por algum motivo quiser falar comigo: ⤵️
-</p>
-<p>
-<a href="https://instagram.com/lusqina" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contato@lucasborges.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "lucasborges.tech" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-site-purple?style=for-the-badge" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-borges-da-silva-sls/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</p>
+<h1 class="code-line" data-line-start=0 data-line-end=1><a id="Python__WebDev_0"></a>Python | WebDev</h1>
+<hr>
+<p class="has-line-data" data-line-start="3" data-line-end="4"><a href="https://lucasborges.tech/"><img src="https://c.tenor.com/drxH1lO9cfEAAAAj/dark-souls-bonfire.gif" alt="alt Bonfire pixel art darksouls 3" title="Aproveite e sente-se um pouco"></a></p>
+<p class="has-line-data" data-line-start="5" data-line-end="6">Clique na fogueira!</p>
+<hr>
+<blockquote>
+<p class="has-line-data" data-line-start="9" data-line-end="11">| Sobre Mim | 🎃<br>
+Estudei eletrônica no IFsul Pelotas, porém com a pandemia e a falta de aulas tomei a decisão de retornar para um cólegio de ensino médio comum de minha cidade, o que consequentemente me trouxe a chance de trabalhar em turno inverso; agora eu utilizo meu tempo livre para criar programas que me auxiliem no meu emprego atual, enquanto desenvolvo minhas habilidades na área.</p>
+</blockquote>
+<hr>
+<blockquote>
+<p class="has-line-data" data-line-start="14" data-line-end="16">| Formação | 💀<br>
+Atualmente estou matrículado na <a href="https://cursos.alura.com.br/user/lucasborges/fullCertificate/79e67bda0de3a038fd639f54630dd328"><strong>Alura</strong></a>, porém estudo a maior parte do tempo através da documentação das linguagens e bibliotecas que venho utilizando.</p>
+</blockquote>
+<hr>
+<blockquote>
+<p class="has-line-data" data-line-start="19" data-line-end="21">| Linguagens | 👻<br>
+No momento venho me dedicado bastante em evoluir meu código em <strong>Python</strong>, porém, paralelamente venho estudando <strong>CSharp | Front-End | Node.Js</strong> além das mais diversas bibliotecas e Frameworks.</p>
+</blockquote>
+<hr>
+<blockquote>
+<p class="has-line-data" data-line-start="24" data-line-end="26">| Contato | 🤖<br>
+Fique a vontade para entrar em contato através do meu <a href="/cdn-cgi/l/email-protection#1d7e7273697c69725d71687e7c6e7f726f7a786e3369787e75"><strong>E-Mail</strong></a>, <a href="https://www.linkedin.com/in/lucas-borges-da-silva-sls/"><strong>LinkedIn</strong></a> ou através do meu <a href="https://t.me/lusqinha"><strong>Telegram</strong></a>.</p>
+</blockquote>
+<hr>
