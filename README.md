@@ -1,7 +1,5 @@
-<h1 class="code-line" data-line-start=0 data-line-end=1><a id="Python__WebDev_0"></a>Python | WebDev</h1>
-<hr>
-<p class="has-line-data" data-line-start="3" data-line-end="4"><a href="https://lucasborges.tech/"><img src="https://c.tenor.com/drxH1lO9cfEAAAAj/dark-souls-bonfire.gif" alt="alt Bonfire pixel art darksouls 3" title="Aproveite e sente-se um pouco"></a></p>
-<p class="has-line-data" data-line-start="5" data-line-end="6">Clique na fogueira!</p>
+<h1 class="code-line" data-line-start=0 data-line-end=1><a id="Python__WebDev_0"></a>| Desenvolvedor Python e Web |</h1>
+<p class="has-line-data" data-line-start="3" data-line-end="4"><a href="https://lucasborges.tech/"><img src="https://c.tenor.com/drxH1lO9cfEAAAAj/dark-souls-bonfire.gif" alt="alt Bonfire pixel art darksouls 3" title="Clique para acessar meu portfólio" width="250px" align="right"></a></p>
 <hr>
 <blockquote>
 <p class="has-line-data" data-line-start="9" data-line-end="11">| Sobre Mim | 🎃<br>
@@ -20,6 +18,6 @@ No momento venho me dedicado bastante em evoluir meu código em <strong>Python</
 <hr>
 <blockquote>
 <p class="has-line-data" data-line-start="24" data-line-end="26">| Contato | 🤖<br>
-Fique a vontade para entrar em contato através do meu <a href="/cdn-cgi/l/email-protection#1d7e7273697c69725d71687e7c6e7f726f7a786e3369787e75"><strong>E-Mail</strong></a>, <a href="https://www.linkedin.com/in/lucas-borges-da-silva-sls/"><strong>LinkedIn</strong></a> ou através do meu <a href="https://t.me/lusqinha"><strong>Telegram</strong></a>.</p>
+Fique a vontade para entrar em contato através do meu <a href="/cdn-cgi/l/email-protection#1d7e7273697c69725d71687e7c6e7f726f7a786e3369787e75"><strong>E-Mail</strong></a>, <a href="https://www.linkedin.com/in/lucas-borges-da-silva-sls/"><strong>LinkedIn</strong></a> ou através do meu <a href="https://t.me/lusqinha"><strong>Telegram</strong></a>; se preferir, apenas clique na fogueira.</p>
 </blockquote>
 <hr>
