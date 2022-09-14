@@ -18,6 +18,6 @@ No momento venho me dedicado bastante em evoluir meu código em <strong>Python</
 <hr>
 <blockquote>
 <p class="has-line-data" data-line-start="24" data-line-end="26">| Contato | 🤖<br>
-Fique a vontade para entrar em contato através do meu <a href="/cdn-cgi/l/email-protection#1d7e7273697c69725d71687e7c6e7f726f7a786e3369787e75" target="_blank"><strong>E-Mail</strong></a>, <a target="_blank" href="https://www.linkedin.com/in/lucas-borges-da-silva-sls/"><strong>LinkedIn</strong></a> ou através do meu <a  href="https://t.me/lusqinha" target="_blank"><strong>Telegram</strong></a>; se preferir, apenas clique na fogueira.</p>
+Fique a vontade para entrar em contato através do meu <a href="/cdn-cgi/l/email-protection#1d7e7273697c69725d71687e7c6e7f726f7a786e3369787e75" target="_blank"><strong>E-Mail</strong></a>, <a target="_blank" href="https://www.linkedin.com/in/lucas-borges-da-silva-sls/"><strong>LinkedIn</strong></a> ou <a  href="https://t.me/lusqinha" target="_blank"><strong>Telegram</strong></a>; se preferir, apenas clique na fogueira.</p>
 </blockquote>
 <hr>
