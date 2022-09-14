@@ -1,5 +1,5 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1><a id="Python__WebDev_0"></a>| Desenvolvedor Python e Web |</h1>
-<p class="has-line-data" data-line-start="3" data-line-end="4"><a href="https://lucasborges.tech/"><img src="https://c.tenor.com/drxH1lO9cfEAAAAj/dark-souls-bonfire.gif" alt="alt Bonfire pixel art darksouls 3" title="Clique para acessar meu portfólio" width="250px" align="right"></a></p>
+<p class="has-line-data" data-line-start="3" data-line-end="4"><a href="https://lucasborges.tech/" target="_blank"><img src="https://c.tenor.com/drxH1lO9cfEAAAAj/dark-souls-bonfire.gif" alt="alt Bonfire pixel art darksouls 3" title="Clique para acessar meu portfólio" width="250px" align="right"></a></p>
 <hr>
 <blockquote>
 <p class="has-line-data" data-line-start="9" data-line-end="11">| Sobre Mim | 🎃<br>
@@ -8,7 +8,7 @@ Estudei eletrônica no IFsul Pelotas, porém com a pandemia e a falta de aulas t
 <hr>
 <blockquote>
 <p class="has-line-data" data-line-start="14" data-line-end="16">| Formação | 💀<br>
-Atualmente estou matrículado na <a target="_blank" href="https://cursos.alura.com.br/user/lucasborges/fullCertificate/79e67bda0de3a038fd639f54630dd328"><strong>Alura</strong></a>, porém estudo a maior parte do tempo através da documentação das linguagens e bibliotecas que venho utilizando.</p>
+Atualmente estou matrículado na <a href="https://cursos.alura.com.br/user/lucasborges/fullCertificate/79e67bda0de3a038fd639f54630dd328" target="_blank"><strong>Alura</strong></a>, porém estudo a maior parte do tempo através da documentação das linguagens e bibliotecas que venho utilizando.</p>
 </blockquote>
 <hr>
 <blockquote>
@@ -18,6 +18,6 @@ No momento venho me dedicado bastante em evoluir meu código em <strong>Python</
 <hr>
 <blockquote>
 <p class="has-line-data" data-line-start="24" data-line-end="26">| Contato | 🤖<br>
-Fique a vontade para entrar em contato através do meu <a target="_blank" href="/cdn-cgi/l/email-protection#1d7e7273697c69725d71687e7c6e7f726f7a786e3369787e75"><strong>E-Mail</strong></a>, <a target="_blank" href="https://www.linkedin.com/in/lucas-borges-da-silva-sls/"><strong>LinkedIn</strong></a> ou através do meu <a target="_blank" href="https://t.me/lusqinha"><strong>Telegram</strong></a>; se preferir, apenas clique na fogueira.</p>
+Fique a vontade para entrar em contato através do meu <a href="/cdn-cgi/l/email-protection#1d7e7273697c69725d71687e7c6e7f726f7a786e3369787e75" target="_blank"><strong>E-Mail</strong></a>, <a target="_blank" href="https://www.linkedin.com/in/lucas-borges-da-silva-sls/"><strong>LinkedIn</strong></a> ou através do meu <a  href="https://t.me/lusqinha" target="_blank"><strong>Telegram</strong></a>; se preferir, apenas clique na fogueira.</p>
 </blockquote>
 <hr>
