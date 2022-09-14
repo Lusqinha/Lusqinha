@@ -8,16 +8,16 @@ Estudei eletrônica no IFsul Pelotas, porém com a pandemia e a falta de aulas t
 <hr>
 <blockquote>
 <p class="has-line-data" data-line-start="14" data-line-end="16">| Formação | 💀<br>
-Atualmente estou matrículado na <a href="https://cursos.alura.com.br/user/lucasborges/fullCertificate/79e67bda0de3a038fd639f54630dd328" target="_blank"><strong>Alura</strong></a>, porém estudo a maior parte do tempo através da documentação das linguagens e bibliotecas que venho utilizando.</p>
+Atualmente estou matrículado na <a href="https://cursos.alura.com.br/user/lucasborges/fullCertificate/79e67bda0de3a038fd639f54630dd328" target="_blank"><strong>Alura</strong></a>, porém estudo a maior parte do tempo através de documentação das linguagens e bibliotecas que utilizo.</p>
 </blockquote>
 <hr>
 <blockquote>
 <p class="has-line-data" data-line-start="19" data-line-end="21">| Linguagens | 👻<br>
-No momento venho me dedicado bastante em evoluir meu código em <strong>Python</strong>, porém, paralelamente venho estudando <strong>CSharp | Front-End | Node.Js</strong> além das mais diversas bibliotecas e Frameworks.</p>
+No momento venho me dedicado bastante em evoluir meu código em <strong>Python</strong>, porém, paralelamente estudo <strong>CSharp | Front-End | Node.Js</strong> além das mais diversas bibliotecas e Frameworks.</p>
 </blockquote>
 <hr>
 <blockquote>
 <p class="has-line-data" data-line-start="24" data-line-end="26">| Contato | 🤖<br>
-Fique a vontade para entrar em contato através do meu <a href="/cdn-cgi/l/email-protection#1d7e7273697c69725d71687e7c6e7f726f7a786e3369787e75" target="_blank"><strong>E-Mail</strong></a>, <a target="_blank" href="https://www.linkedin.com/in/lucas-borges-da-silva-sls/"><strong>LinkedIn</strong></a> ou <a  href="https://t.me/lusqinha" target="_blank"><strong>Telegram</strong></a>; se preferir, apenas clique na fogueira.</p>
+Fique à vontade para entrar em contato através do meu <a href="/cdn-cgi/l/email-protection#1d7e7273697c69725d71687e7c6e7f726f7a786e3369787e75" target="_blank"><strong>E-Mail</strong></a>, <a target="_blank" href="https://www.linkedin.com/in/lucas-borges-da-silva-sls/"><strong>LinkedIn</strong></a> ou <a  href="https://t.me/lusqinha" target="_blank"><strong>Telegram</strong></a>; se preferir, apenas clique na fogueira.</p>
 </blockquote>
 <hr>
