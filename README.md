@@ -8,7 +8,7 @@ Estudei eletrônica no IFsul Pelotas, porém com a pandemia e a falta de aulas t
 <hr>
 <blockquote>
 <p class="has-line-data" data-line-start="14" data-line-end="16">| Formação | 💀<br>
-Atualmente estou matrículado na <a href="https://cursos.alura.com.br/user/lucasborges/fullCertificate/79e67bda0de3a038fd639f54630dd328" target="_blank"><strong>Alura</strong></a>, porém estudo a maior parte do tempo através de documentação das linguagens e bibliotecas que utilizo.</p>
+Atualmente estou matrículado na <a href="https://cursos.alura.com.br/user/lucasborges/fullCertificate/79e67bda0de3a038fd639f54630dd328" target="_blank"><strong>Alura</strong></a> e na Universidade <strong>UNOPAR</strong>, porém estudo a maior parte do tempo através de documentação das linguagens e bibliotecas que utilizo.</p>
 </blockquote>
 <hr>
 <blockquote>
