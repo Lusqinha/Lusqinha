@@ -6,7 +6,7 @@
 
 ## About Me 🎃
 
-Professional with experience in the Help Desk sector, currently a collaborator at "Prática Certificação Digital." I am actively seeking opportunities as a Software Developer Analyst. I possess specialized knowledge in programming languages, including Python, C#, Java, as well as expertise in MySQL database management and Linux systems. My proactive approach and continuous learning ability complement my dedication to software development.
+Professional with experience in the Help Desk sector, currently a collaborator at "Prática Certificação Digital." I am actively seeking opportunities as a Software Developer Analyst. I possess specialized knowledge in programming languages, including Python and Java, as well as expertise in MySQL database management and Linux systems. My proactive approach and continuous learning ability complement my dedication to software development.
 
 ## Education 💀
 
