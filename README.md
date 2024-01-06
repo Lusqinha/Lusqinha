@@ -2,7 +2,7 @@
 
 > Click on the bonfire!
 
-> [![Click to access my portfolio](https://c.tenor.com/drxH1lO9cfEAAAAj/dark-souls-bonfire.gif)](https://lucasborgess.com/)
+> [![Click to access my portfolio](https://c.tenor.com/drxH1lO9cfEAAAAj/dark-souls-bonfire.gif)](https://devlucasborges.com/)
 
 ## About Me 🎃
 
