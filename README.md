@@ -4,10 +4,6 @@
 
 > [![Click to access my portfolio](https://c.tenor.com/drxH1lO9cfEAAAAj/dark-souls-bonfire.gif)](https://terminal.devlucasborges.com/)
 
-## About Me 🎃
-
-Professional with experience in the Help Desk sector, currently a collaborator at "Prática Certificação Digital." I am actively seeking opportunities as a Software Developer Analyst. I possess specialized knowledge in programming languages, including Python and Java, as well as expertise in MySQL database management and Linux systems. My proactive approach and continuous learning ability complement my dedication to software development.
-
 ## Education 💀
 
 I am currently enrolled in [***PUCRS***](https://online.pucrs.br/graduacao/analise-desenvolvimento-sistemas-full-stack-mobile) - ***Analysis and Systems Development***. However, I mostly study through language and library documentation.
