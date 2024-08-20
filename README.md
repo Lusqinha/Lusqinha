@@ -1,18 +1,37 @@
-# README.md
 
-> Click on the bonfire!
+<table>
+    <tr>
+        <td style="width: 30%;">
+            <img src="https://c.tenor.com/drxH1lO9cfEAAAAj/dark-souls-bonfire.gif" style="width:100%; border: none;"/>
+        </td>
+        <td style="width: 10%; vertical-align: middle;">
+            <p style="font-family: monospace; font-size: 80px;">
+                
+    Hey! I'm Lucas, and I've dug way too deep into the Linux rabbit hole! 🐧
+    
+</p>                                                                  
+        
+    about me ★
 
-> [![Click to access my portfolio](https://c.tenor.com/drxH1lO9cfEAAAAj/dark-souls-bonfire.gif)](https://terminal.devlucasborges.com/)
+    
+    │▸ Fullstack | DevOps
+    │   ┗ ▸ Systems Development Analyst                                               
+    │▸ Skills
+    |   ┗ ▸  Python
+    |     ▸  Ruby
+    |     ▸  Bash
+    |     ▸  Go
+    |     ▸  Js
+    | ▸ Degree
+    |   ┗ ▸ I am currently enrolled in PUCRS - Analysis and Systems Development, 
+    |        however, I mostly study through language and library documentation.
+    |
+    |
+    | ▸ You can click on the bonfire to go to my personal website! 🌐
 
-## Education 💀
+    
+                                              
+</p>
 
-I am currently enrolled in [***PUCRS***](https://online.pucrs.br/graduacao/analise-desenvolvimento-sistemas-full-stack-mobile) - ***Analysis and Systems Development***. However, I mostly study through language and library documentation.
-
-## Languages 👻
-<div style="display: inline_block"><br>
-<img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
-<img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg">
-</div>
+</tr>
+</table>
