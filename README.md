@@ -23,7 +23,7 @@
     |     ▸  Go
     |     ▸  Js
     | ▸ Degree
-    |   ┗ ▸ I am currently enrolled in PUCRS - Analysis and Systems Development, 
+    |   ┗ ▸ I am currently enrolled at PUCRS - Analysis and Systems Development, 
     |        however, I mostly study through language and library documentation.
     |
     |
