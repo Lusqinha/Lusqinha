@@ -18,6 +18,7 @@
     │   ┗ ▸ Systems Development Analyst                                               
     │▸ Skills
     |   ┗ ▸  Python
+    |     ▸  Java
     |     ▸  Ruby
     |     ▸  Bash
     |     ▸  Go
