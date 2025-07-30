@@ -14,14 +14,13 @@
     about me ★
 
     
-    │▸ Fullstack
+    │▸ Back-End
     │   ┗ ▸ Systems Development Analyst                                               
     │▸ Skills
     |   ┗ ▸  Python
     |     ▸  Ruby
     |     ▸  Bash
     |     ▸  Go
-    |     ▸  Js
     | ▸ Degree
     |   ┗ ▸ I am currently enrolled at PUCRS - Analysis and Systems Development, 
     |        however, I mostly study through language and library documentation.
