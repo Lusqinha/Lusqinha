@@ -7,7 +7,7 @@
         <td style="width: 10%; vertical-align: middle;">
             <p style="font-family: monospace; font-size: 80px;">
                 
-    Hey! I'm Lucas, and I've dug way too deep into the Linux rabbit hole! 🐧
+    Hey! I'm Lucas Borges, and I've dug way too deep into the Ruby💎 rabbit hole! 🐧
     
 </p>                                                                  
         
@@ -15,8 +15,8 @@
 
     
     │▸ Back-End
-    │   ┗ ▸ Back-end Developer @ Mainô (customs/ERP integrations)
-    │     ▸ Co-founder & Developer @ D'ultimahora (Rails ticket marketplace)
+    │   ┗ ▸ Back-end Developer for Mainô (foreign trade ERP)
+    │     ▸ Co-founder & Developer @ D'ultimahora (ticket marketplace)
     │▸ Stack
     |   ┗ ▸  Ruby / Ruby on Rails
     |     ▸  PHP / Laravel
@@ -26,7 +26,7 @@
     |   ┗ ▸ PUCRS - Analysis and Systems Development (2023-2026), 
     |        however, I mostly study through language and library documentation.
     | ▸ More
-    |   ┗ ▸ Full CV: lusqinha.github.io/curriculum-vitae
+    |   ┗ ▸ Full CV: <a href="https://lusqinha.github.io/curriculum-vitae/" target="_blank">lusqinha.github.io/curriculum-vitae</a>
     |
     |
 
