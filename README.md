@@ -26,7 +26,7 @@
     |   ┗ ▸ Graduated in Analysis and Systems Development, PUCRS (2023-2026), 
     |        though I keep learning through books, documentation, and hands-on practice.
     | ▸ More
-    |   ┗ ▸ Full CV: [lusqinha.github.io/curriculum-vitae](https://lusqinha.github.io/curriculum-vitae/)
+    |   ┗ ▸ Full CV: lusqinha.github.io/curriculum-vitae
     |
     |
 
