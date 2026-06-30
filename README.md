@@ -23,8 +23,8 @@
     |     ▸  PostgreSQL, MySQL, Redis, Sidekiq
     |     ▸  RSpec, TDD, REST APIs
     | ▸ Degree
-    |   ┗ ▸ PUCRS - Analysis and Systems Development (2023-2026), 
-    |        however, I mostly study through language and library documentation.
+    |   ┗ ▸ Graduated in Analysis and Systems Development, PUCRS (2023-2026), 
+    |        though I keep learning through books, documentation, and hands-on practice.
     | ▸ More
     |   ┗ ▸ Full CV: <a href="https://lusqinha.github.io/curriculum-vitae/" target="_blank">lusqinha.github.io/curriculum-vitae</a>
     |
