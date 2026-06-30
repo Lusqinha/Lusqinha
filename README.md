@@ -15,15 +15,18 @@
 
     
     │▸ Back-End
-    │   ┗ ▸ Systems Development Analyst                                               
-    │▸ Skills
-    |   ┗ ▸  Python
-    |     ▸  Ruby
-    |     ▸  Bash
-    |     ▸  Go
+    │   ┗ ▸ Back-end Developer @ Mainô (customs/ERP integrations)
+    │     ▸ Co-founder & Developer @ D'ultimahora (Rails ticket marketplace)
+    │▸ Stack
+    |   ┗ ▸  Ruby / Ruby on Rails
+    |     ▸  PHP / Laravel
+    |     ▸  PostgreSQL, MySQL, Redis, Sidekiq
+    |     ▸  RSpec, TDD, REST APIs
     | ▸ Degree
-    |   ┗ ▸ I am currently enrolled at PUCRS - Analysis and Systems Development, 
+    |   ┗ ▸ PUCRS - Analysis and Systems Development (2023-2026), 
     |        however, I mostly study through language and library documentation.
+    | ▸ More
+    |   ┗ ▸ Full CV: lusqinha.github.io/curriculum-vitae
     |
     |
 
